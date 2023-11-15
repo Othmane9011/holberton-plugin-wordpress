@@ -1,0 +1,69 @@
+/* Style the contact form container */
+#contact-form-options {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Style form labels */
+.holberton-form-field label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+/* Style for the input fields in the holberton-form-field class */
+.holberton-form-field input[type="text"],
+.holberton-form-field input[type="email"],
+.holberton-form-field textarea {
+    width: 200%; /* Adjust the width as needed */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* Style for the labels in the holberton-form-field class */
+.holberton-form-field label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Style for the submit button in the holberton-form-field class */
+.holberton-form-field input[type="submit"] {
+    background-color: #0073e6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.shortcode-input {
+    width: 400px;
+}
+
+.container {
+    width: 60%; /* Adjust the width as needed */
+    margin: 0 auto; /* This centers the container horizontally */
+    padding: 20px;
+    background-color: #f2f2f2; /* Background color */
+    border: 1px solid #ccc; /* Border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+}
+
+.container-above-holberton {
+    width: 60%; /* Adjust the width as needed */
+    margin: 20px auto; /* Center the container and add spacing above "Holberton Plugin" */
+    padding: 20px;
+    background-color: #f2f2f2; /* Background color */
+    border: 1px solid #ccc; /* Border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+}
+
