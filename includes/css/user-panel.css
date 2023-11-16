@@ -216,3 +216,20 @@ textarea {
     color: #c77272;
     font-size: 14px;
 }
+
+/* Example CSS for the custom header */
+.custom-header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Example CSS for the custom footer */
+.custom-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+}
